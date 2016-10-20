@@ -1,0 +1,241 @@
+---
+- year: 2011
+  type: conference
+  title: Acheter des prestations IT et web - un exercice à part entière
+  url: https://sudweb.fr/2011/post/Acheter-des-prestations-IT-et-web-un-exercice-a-part-entiere.html
+  description: La réussite d’un projet Web ne dépend pas que du prestataire le réalisant. L’acheteur joue également un rôle clé. Nous verrons les bonnes recettes à appliquer et ce qu’il faut savoir pour être un bon acheteur ainsi que les impacts liés à la phase d’achat sur le déroulement du projet. Un bon business c’est aussi un bon processus commercial.
+  tags:
+  - vente
+  - méthodologie
+  - prestation
+  authors:
+  - name: Olivier Mansour
+    description: Passionné de technologie, en plus de 15 ans de carrière, Olivier a mis son bon sens au services de beaucoup d'équipes de dévelopement et est maintenant en charge des architectures backend et des APIs pour le groupe M6.
+    picture: https://c1.staticflickr.com/7/6078/6071050948_7f11a76a8d.jpg
+    twitter: http://twitter.com/omansour
+  ressource:
+    video: https://vimeo.com/37769148
+    slides: http://www.slideshare.net/oliviermansour/acheter-des-prestations-it-et-web
+- year: 2011
+  type: conference
+  title: Anatomie d'une mission agile
+  url: https://sudweb.fr/2011/post/Anatomie-d-une-mission-agile.html
+  description: La réalité agile, retour d’expérience sur le déploiement agile au sein d’un grand éditeur de logiciel dans le milieu bancaire. L’agile, tout le monde en parle, mais peu osent encore s’y lancer *véritablement*. Il plane une odeur de risque, d’étrangeté, qui freine les décideurs, les managers. L’objectif de cette session est de lever cet écran de fumée pour plonger concrètement au sein d’une application de l’agile dans un milieu que l’on estime habituellement rigide ou traditionaliste, le milieu bancaire. Rentabilité, ROI, plan de carrière, supervision, définition du besoin, contraintes, risques, "time to market", réussite de certains processus, échecs d’autres, l’objectif de cette session est de décrire la réalité agile en démystifiant certaines idées et en répondant le plus concrètement possible aux questions souvent posées.
+  tags:
+  - agile
+  - scrum
+  - kanban
+  authors:
+  - name: Pablo Pernot
+    description: Après une maitrise sur les Monty Python, un DEA sur le non-sens et l’absurde, l’entame d’un doctorat sur les comiques cinématographiques il parait normal que Pablo se soit lancé dans l’informatique, c’est -finalement- une suite logique.  Actuellement un acteur expérimenté en management organisationnel, conduite du changement, et agilité chez beNext (et anciennement fondateur de SmartView).
+    picture: http://areyouagile.com/theme/images/sudweb2014.jpg
+    twitter: https://twitter.com/pablopernot
+  ressource:
+    video: https://vimeo.com/37694674
+    slides: http://www.slideshare.net/pablopernot/anatomie-dune-mission-agile
+- year: 2011
+  type: conference
+  title: "The future of application development : Developing collaborative applications in the cloud"
+  url: https://sudweb.fr/2011/post/The-future-of-application-development-Developing-collaborative-applications-in-the-cloud.html
+  description: Web browsers are now full part of the « Web as a platform » motto. Cloud9IDE is one of those new Web IDE, based on Open Web technologies. cloud9 IDEWith everything moving to the Cloud, it is now time to have software development join in. JavaScript applications run online for a purpose, so why shouldn’t you develop your application online too? So, to do this we are building Cloud9 IDE as a SaaS service with an open source foundation.
+  tags:
+  - SaaS
+  - JavaScript
+  - IDE
+  authors:
+  - name: Lieke Arends
+    description:
+    picture: https://sudweb.fr/2011/blog/public/orateurs/Lieke-Arends.jpg
+    twitter: https://twitter.com/Liannejaz
+  - name: Ruben Daniëls
+    description: CEO and co-founder of Cloud9 IDE.
+    picture: https://pbs.twimg.com/profile_images/524425181578551296/xLWn7iv3_200x200.png
+    twitter: https://twitter.com/javruben
+  ressource:
+    video: https://vimeo.com/album/1908328/video/37986538
+    slides: http://www.slideshare.net/Cloud9IDE/presentation-cloud9-at-sudweb
+- year: 2011
+  type: conference
+  title: Le web et l'efficience de l'intervention humanitaire
+  url: https://sudweb.fr/2011/post/Le-web-et-l-efficience-de-l-intervention-humanitaire.html
+  description:
+  tags:
+  - mobile
+  - humanitaire
+  - ergonomie
+  authors:
+  - name: Jean-Étienne Durand
+    description: Co-fondateur et CEO de Wopata, entreprise spécialisée dans le web et mobile applicatif. Jean-Etienne est ingénieur spécialisé en informatique et nouvelles technologies, diplômé des Mines de Saint-Etienne - ISMIN.
+    picture: https://sudweb.fr/2011/blog/public/orateurs/Jean-Etienne-Durand.jpg
+    twitter: null
+  ressource:
+    video: https://vimeo.com/album/1908328/video/37792204
+    slides: https://sudweb.fr/2011/blog/public/presentations/web-efficience-humanitaire.pdf
+- year: 2011
+  type: conference
+  title: Créer un bureau HTML5 pour le Cloud
+  url: https://sudweb.fr/2011/post/Creer-un-bureau-HTML5-pour-le-Cloud.html
+  description: HTML5 et les technologies Open Web constituent la plate-forme applicative universelle. Y compris pour bâtir un système d’exploitation.
+  tags:
+  - HTML5
+  - JavaScript
+  - Cloud
+  authors:
+  - name: Romain Huet
+    description: Actuellement an charge des relations développeurs pour Stripe, Romain a été auparavant en charge des relations développeur chez Twitter, il est également le co-fondateur et le CTO de Jolicloud.
+    picture: https://pbs.twimg.com/profile_images/535845362095767552/PXYsWThV.jpeg
+    twitter: https://twitter.com/romainhuet
+  ressource:
+    video: https://vimeo.com/album/1908328/video/39645612
+    slides: http://romainhuet.com/talks/sudweb/#1
+- year: 2011
+  type: conference
+  title: SVG pour les designers et les développeurs
+  url: https://sudweb.fr/2011/post/SVG-pour-les-designers-et-les-developpeurs.html
+  description: Que vous soyez designer ou développeur, SVG est désormais une technologie mainstream que vous devez connaître. Démonstration par l’exemple de ce qu’il est possible de faire aujourd’hui avec SVG et quel sont les problèmes qu’il permet de résoudre.
+  tags:
+  - SVG
+  - Design
+  authors:
+  - name: Jérémie Patonnier
+    description: Tour à tour, Web designer, Développeur, Chef de projet puis Responsable d’équipe Web, Jérémie a roulé sa bosse dans les métiers du Web depuis plus de 15 ans maintenant. Actuellement chez Mozilla, il s'occupe du Mozilla Developer Network.
+    picture: https://pbs.twimg.com/profile_images/1731588715/jeremie-patonnier-150_200x200.jpg
+    twitter: https://twitter.com/JeremiePat
+  ressource:
+    video: https://vimeo.com/album/1908328/video/38535798
+    slides: http://jeremie.patonnier.net/post/2011/21/SudWeb-2011-Coup-d-essai-coup-de-maitre
+- year: 2011
+  type: conference
+  title: Mobile, votre point de départ
+  url: https://sudweb.fr/2011/post/Mobile-votre-point-de-depart.html
+  description: D’ici 2014, le mobile aura une place prépondérante sur le marché mondial. Comment le prendre en compte dans un développement Web ? Nous donnerons un aperçu de la situation mondiale, des habitudes quotidiennes, des techniques utilisées aujourd’hui. Que cela veut-il dire de choisir le mobile comme point de départ, quels sont les bénéfices et les pièges à éviter ou gérer ?
+  tags:
+  - mobile
+  - méthodologie
+  - UX
+  authors:
+  - name: Karl Dubost
+    description: Karl travaille actuellement chez Mozilla où il essaie de résoudre les problèmes de compatibilités entre navigateurs. Ancien membre du staff du W3C et des relations développeurs chez Opera, Karl milite depuis plus de 20 ans pour un web ouvert à tous.
+    picture: https://avatars2.githubusercontent.com/u/505230?v=3&s=400
+    twitter: null
+  ressource:
+    video: https://vimeo.com/album/1908328/video/38604474
+    slides: http://www.slideshare.net/karlcow/penser-mobile-contenu
+- year: 2011
+  type: conference
+  title: Où va le Web ?
+  url: https://sudweb.fr/2011/post/Ou-va-le-Web.html
+  description: Le modèle libre d’Internet, que nous avons connus jusqu’à présent, fait actuellement l’objet d’une triple menace. Explications et débat. D’abord celle des aspirateurs du web, les Google et Facebook, véritables "trous noirs à contenus", qui privatisent les contenus et les liens. Ensuite celle des applications, qui abolissent la navigation web. Enfin celle des gouvernements, qui peuvent exercer des pressions sur les serveurs DNS pour éliminer certains contenus (affaire WikiLeaks). Comment ces trois forces vont-elles modifier et modeler Internet ? Des modèles alternatifs pourraient-ils émerger ? Comment Internet va-t-il évoluer ?
+  tags:
+  - Internet
+  - économie
+  - politique
+  authors:
+  - name: Marc Lipskier
+    description: Marc est avocat au Barreau de Paris depuis 1998. Il a été collaborateur des cabinets Cotty & Associés (1998-2001), Brandford-Griffith-Baverez-Cotty (2001-2002) puis Bird & Bird (septembre 2002), avant d’être promu associé de Bird & Bird en mai 2003. Marc est diplômé de l’Institut d’Etudes Politiques de Paris (section Economique et Financière) et titulaire d’un diplôme de l’ICADE (Madrid – Espagne) et de l’Université Catholique de Louvain (Belgique), ainsi que d’une maîtrise en droit des affaires internationales (Paris I).
+    picture: http://www.bambooandbees.com/wp-content/uploads/2013/04/marc.jpg
+    twitter: https://twitter.com/bambooandbees
+  ressource:
+    video: https://vimeo.com/39548258
+    slides: http://www.slideshare.net/MarcLipskier/o-va-le-web
+- year: 2011
+  type: LT
+  title: Rendez vos feuilles de style dynamiques avec less
+  url: https://sudweb.fr/2011/post/Rendez-vos-feuilles-de-style-dynamiques-avec-less.html
+  description: Des variables, des macros ou de l’héritage partiel en CSS ? C’est ce que permet LESS, en faire plus avec moins de code. C’est par exemple le cas des variables ou des déclarations imbriquées. LESS est une surcouche qui comble ces lacunes, vous permettant de gagner en temps et en lisibilité. Cette présentation a pour objectif de vous montrer succinctement comment et pourquoi utiliser LESS.
+  tags:
+  - CSS
+  - front-end
+  - outils
+  authors:
+  - name: Corinne Schillinger
+    description: Intégratrice senior, Experte AccessiWeb, ex-présidente de Paris-Web & auteur de Intégration web - les bonnes pratiques.
+    picture: https://pbs.twimg.com/profile_images/590408247225516032/97yy8QZJ_200x200.jpg
+    twitter: https://twitter.com/schillinger
+  ressource:
+    video: https://vimeo.com/37851523
+    slides: http://www.slideshare.net/inseo/introduction-less
+- year: 2011
+  type: LT
+  title: Webpagetest en 5 minutes
+  url: https://sudweb.fr/2011/post/Webpagetest-en-5-minutes.html
+  description: "La lenteur d’un site peut avoir des conséquences dramatiques sur la fidélité de vos visiteurs, leur montant de commande et surtout leur satisfaction. Plutôt que répéter les bonnes pratiques que vous avez déjà entendu (ou que vous pourrez lire sur le web), nous ferons un tour rapide de webpagetest : un outil en ligne pour analyser les performances d’un site."
+  tags:
+  - Performance
+  - UX
+  - outils
+  authors:
+  - name: Eric Daspet
+    description: Sensibilisé à la perfomance alors qu'il travaillait chez Yahoo!, Éris est actuellement directeur technique de la Ruche qui dit oui. Éric a également confondé TEA (The Ebook Alternative) et fait partie des co-fondateurs de Paris-Web.
+    picture: https://pbs.twimg.com/profile_images/1834520741/eric-daspet-thumb-143x143-inverse.jpg
+    twitter: edasfr
+  ressource:
+    video: https://vimeo.com/album/1908328/video/38017799
+    slides: http://www.slideshare.net/edaspet/webpagetest-en-5-minutes-sud-web-2011
+- year: 2011
+  type: LT
+  title: Comment stocker les mots de passe de vos utilisateurs ?
+  url: https://sudweb.fr/2011/post/Comment-stocker-les-mots-de-passe-de-vos-utilisateurs.html
+  description: Petit topo rapide des techniques employées pour stocker les mots de passe utilisateur dans les applications web et leurs problèmes. Si vous pensez encore que stocker un password avec un algorithme de hash classique et un salt suffit, cette présentation est pour vous !
+  tags:
+  - sécurité
+  - hash
+  - chiffrement
+  authors:
+  - name: Mathieu Pillard
+    description: Actuellement dévelopeur chez Mozilla, Mathieu est depuis longtemps un défenseur acharné des standards et du web ouvert. Co-fondateur d'OpenWeb, il a eu la chance de travailler pour Netscape, Téléfun (Skyblogs) ou Libération.
+    picture: https://c1.staticflickr.com/7/6086/6070599913_5b773b3337.jpg
+    twitter: https://twitter.com/dioxmat
+  ressource:
+    video: https://vimeo.com/album/1908328/video/38061211
+    slides: http://virgule.net/tmp/Comment-stocker-les-mots-de-passe.pdf
+- year: 2011
+  type: LT
+  title: Faire parler HTML5
+  url: https://sudweb.fr/2011/post/Quand-HTTP-se-met-a-parler.html
+  description: Avec l’avènement des nouveaux standards, et de navigateurs plus performants, il est maintenant possible de donner la parole aux pages web.
+  tags:
+  - API
+  - HTML5
+  - TTS
+  authors:
+  - name: Renaud Forestié
+    description: "Renaud est un talentueux touche à tout : à la fois UX lead, webdesigner, illustrateur, membre d'un groupe d'indie folk, développeur de jeux, papa et heureux possesseur d'un Corgie nommé Annie."
+    picture: http://www.reuno.info/images/photo-reuno-freelance-illustrator.png
+    twitter: reuno
+  ressource:
+    video: https://vimeo.com/album/1908328/video/40155420
+    slides: http://www.acapela-group.com/SudWeb/#slide1
+- year: 2011
+  type: LT
+  title: Comment et pourquoi un poste de responsable qualité web ?
+  url: https://sudweb.fr/2011/post/Retour-d-experience-_-comment-et-pourquoi-un-poste-de-Responsable-qualite-web.html
+  description: Devenir responsable qualité Web dans une société dont ce n’est pas le métier, tour de force ou simple bon sens ? Chartes, veille, audit, compte-rendus de conférence, recherche sur des problématiques, etc., tout cela servait les objectifs business mais devenait difficile dans un contexte de production. Delphine présente les besoins que son équipe a constaté et comment un poste de responsable qualité web permettait de les couvrir.
+  tags:
+  - qualité
+  - méthodologie
+  authors:
+  - name: Delphine Malassingne
+    description: De formation artistique, elle a développé un goût prononcé pour le webdesign et sa passion pour les problématiques d’interface l’a naturellement ouverte à l’ergonomie, l’expérience utilisateur et au référencement naturel. Intégratrice à partir de 2001, elle a adopté les standards du web et l’accessibilité grâce aux belles rencontres qu’elle a pu faire en ligne et gère les impératifs de production et de rentabilité en veillant à l’industrialisation et à l’amélioration continue. Forte d’un profil transverse, elle est devenue au sein de son poste sur la qualité web un interlocuteur pour toutes les spécialités de la création de sites web.
+    picture: https://pbs.twimg.com/profile_images/462528966645915648/oQVyCDl4.jpeg
+    twitter: https://twitter.com/nissone
+  ressource:
+    video: https://vimeo.com/album/1908328/video/38010073
+    slides: http://www.slideshare.net/DelphineMalassingne/pourquoi-comment-le-poste-de-responsable-qualit-web-sud-web-2011-8147679
+- year: 2011
+  type: LT
+  title: Vers des langues de programmation ?
+  url: https://sudweb.fr/2011/post/Vers-des-langues-de-programmation.html
+  description: Quelle différence entre langue et langage ? Perl est-il mieux que Python ? Qu’est-ce que serait une langue de programmation ? Le français fait une distinction conceptuelle entre un langage et une langue ; cette dernière étant, de manière schématique, une résultante d’un langage au travers son histoire et sa culture. Après avoir révisé rapidement la genèse des langages de programmations (des instructions machines jusqu’à la syntaxe des langages de nos jours), nous verrons quelles sont les spécificités d’une langue d’un point de vue linguistique qui permettraient, appliquées aux langages de programmations, de rendre compte d’une possible évolution de terminologie vers des langues de programmation.
+  tags:
+  - langage
+  - culture
+  - programmation
+  authors:
+  - name: Nicolas Dubois
+    description: Après des études en sciences cogntives, Nicolas est devenu développeur. Adepte de Python et de Django, il a tapoté sur les claviers pour PeopleDoc, Oscaro ou AMG Developpement. Ses mains parcourent aussi les manches de guitare, quand ses deux enfants lui en laissent le temps.
+    picture: https://pbs.twimg.com/profile_images/576082842385448961/ZLOels2D_400x400.jpeg
+    twitter: https://twitter.com/wo0dyn
+  ressource:
+    video: https://vimeo.com/album/1908328/video/38061210
+    slides: http://www.slideshare.net/duboisnicolas/vers-des-langues-de-programmation
