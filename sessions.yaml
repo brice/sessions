@@ -239,3 +239,269 @@
   ressource:
     video: https://vimeo.com/album/1908328/video/38061210
     slides: http://www.slideshare.net/duboisnicolas/vers-des-langues-de-programmation
+- year: 2012
+  type: conference
+  title: Mais un lead dev, c’est quoi ?
+  url: https://sudweb.fr/2012/talk/mais-un-lead-dev-c-est-quoi/
+  description: Mais c’est quoi être Lead Developer ? Quelles qualités lui faut-il ? Quel est son travail au quotidien ? Quelle place a-t-il dans une équipe agile ? Quelle valeur apporte-t-il à un projet ou un produit ? Et quelle est à la place de ce métier dans la galaxie des métiers du Web ?
+  tags:
+  authors:
+  - name: Brice Favre
+    description: 
+    picture: https://sudweb.fr/2012/wp-content/uploads/2012/03/6190868459_458ea5506d_b1.jpg
+    twitter: https://twitter.com/briceatwork
+  ressource:
+    video: https://vimeo.com/57088529
+    slides: https://docs.google.com/presentation/d/1kubSfCote_SjCbMLF3tmF6e8n0jksyvOlIlfLcDzzAg/edit?pli=1#slide=id.p
+- year: 2012
+  type: conference
+  title: L’Open Web en tant que pierre angulaire du développement multi-objets
+  url: https://sudweb.fr/2012/talk/lopen-web-en-tant-que-pierre-angulaire-du-developpement-multi-objets/
+  description: Si l’utilisation d’un unique langage nous permet de mutualiser les efforts lors du développement, ce serait vite oublier toutes les spécificités de chaque plateforme, qu’elles soient logicielles (moteur de rendu) ou matérielles (outil de pointage, taille d’écran).
+  tags:
+  authors:
+  - name: Thomas Bassetto
+    description: 
+    picture: https://sudweb.fr/2012/wp-content/uploads/2012/03/thomas_bassetto1-600x2201.jpg
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/57015969
+    slides: http://fr.slideshare.net/tbassetto/lopen-web-en-tant-que-pierre-angulaire-du-developpement-multiobjets
+- year: 2012
+  type: conference
+  title: Comment vendre des prestations agiles ?
+  url: https://sudweb.fr/2012/talk/comment-vendre-des-prestations-agiles/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: Ne perdez plus votre temps, testez vos idées en quelques heures !
+  url: https://sudweb.fr/2012/talk/ne-perdez-plus-votre-temps-testez-vos-idees-en-quelques-heures/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: From service provider to software vendor
+  url: https://sudweb.fr/2012/talk/from-service-provider-to-software-vendor/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: Oh, IE6, how we loved you.
+  url: https://sudweb.fr/2012/talk/oh-ie6-how-we-loved-you/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: "MDN : Documenter le Web ouvert"
+  url: https://sudweb.fr/2012/talk/contribuer-pour-mozilla-developer-network-comment-ca-marche/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: Mise en place d’une stratégie de Performance en entreprise
+  url: https://sudweb.fr/2012/talk/mise-en-place-dune-strategie-de-performance-en-entreprise/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: LT
+  title: Le naufrage du Vasa
+  url: https://sudweb.fr/2012/talk/le-naufrage-du-vasa/
+  description: Le Vasa est un navire de guerre suédois mis en service en 1628. Il a la particularité d’avoir coulé en moins de temps que la durée d’un Lightning Talk.
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: https://sudweb.fr/2012/wp-content/uploads/2012/03/mathieu-pillard2.jpg
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: How to use and abuse the web to get ahead in the music business
+  url: https://sudweb.fr/2012/talk/how-to-use-and-abuse-the-web-to-get-ahead-in-the-music-business/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: How to use and abuse the web to get ahead in the music business
+  url: 
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: LT
+  title: Le test du recruteur
+  url: https://sudweb.fr/2012/talk/le-test-du-recruteur/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: Le Web au doigt et à l’œil avec CasperJS
+  url: https://sudweb.fr/2012/talk/le-web-au-doigt-et-a-loeil-avec-casperjs/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: L’icône anonyme
+  url: https://sudweb.fr/2012/talk/licone-anonyme/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: Open web, le combat continue
+  url: https://sudweb.fr/2012/talk/open-web-le-combat-continue/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: CSS3 with a safety net
+  url: https://sudweb.fr/2012/talk/css3-with-a-safety-net/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: Intégrateur, lève-toi et conçois !
+  url: https://sudweb.fr/2012/talk/integrateur-leve-toi-et-concois/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: L’altruisme pour votre bénéfice
+  url: https://sudweb.fr/2012/talk/laltruisme-pour-votre-benefice/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
+- year: 2012
+  type: conference
+  title: Questions à l’ombre
+  url: https://sudweb.fr/2012/talk/questions-a-lombre/
+  description: 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/
+    slides: 
