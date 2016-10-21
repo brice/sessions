@@ -505,3 +505,241 @@
   ressource:
     video: https://vimeo.com/
     slides: 
+- year: 2013
+  type: conference
+  title: "Le client : ce gentil méchant"
+  url: 
+  description: Après avoir été prestataire Olivier est devenu client. Analysons avec lui ces deux rôles pour en finir avec les dialogues de sourd.
+  tags:
+  authors:
+  - name: Olivier de Villardi,
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69881604
+    slides: https://medium.com/its-complicated/ee32eb2195a1
+- year: 2013
+  type: conference
+  title: Conduite du changement, de l'artisanat à l'industrialisation 
+  url: 
+  description: Est-il si facile de changer des habitudes bien ancrées quand on est toute fraîchement débarquée dans une équipe ? 
+  tags:
+  authors: 
+  - name: Agnès Haasser
+    description: 
+    picture: 
+    twitter: https://twitter.com/tut_tuuut
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69882988
+    slides: http://www.slideshare.net/tut_tuuut/de-lartisanat-aux-bases-de-lindustrialisation
+- year: 2013
+  type: conference
+  title: Sass et Compass ont embelli mon quotidien
+  url: 
+  description: Comment simplifier la gestion des CSS dans un environnement de production complexe ? 
+  tags:
+  authors:
+  - name: 
+    description: 
+    picture: 
+    twitter: https://twitter.com/piouPiouM,
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69882987
+    slides: http://fr.slideshare.net/piouPiouM/sass-et-compass-ont-embelli-mon-quotidien-sud-web-2013
+- year: 2013
+  type: conference
+  title: "Getting Touchy: an introduction to Touch Events"
+  url: 
+  description: Comprendre la gestion des différentes interactions tactiles et les rendre compatibles quel que soit le périphérique d'accès.
+  tags:
+  authors:
+  - name: Patrick Lauke
+    description: 
+    picture: 
+    twitter: https://twitter.com/patrick_h_lauke
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69891369
+    slides: http://www.slideshare.net/redux/sudweb-17052013
+- year: 2013
+  type: LT
+  title: Le développement c'est difficile
+  url: 
+  description: Le logiciel c'est compliqué. Des pièges subtils vous attendent même si l'algorithme semble simple à première vue. 
+  tags:
+  authors:
+  - name: Rémi Parmentier
+    description: 
+    picture: 
+    twitter: https://twitter.com/hteumeuleu
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69888991
+    slides: http://fr.slideshare.net/HTeuMeuLeu/sudweb-lt
+- year: 2013
+  type: LT
+  title: Aubergine n'est pas une couleur
+  url: 
+  description: Un monde de nuances.
+  tags:
+  authors:
+  - name: Alain Witkowski
+    description: 
+    picture: 
+    twitter: https://twitter.com/wa__rn
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69888992
+    slides: https://vimeo.com/album/2451288/video/69888992
+- year: 2013
+  type: LT
+  title: L'odyssée de l'espace insécable
+  url: 
+  description: Piqûre de rappel sur les conventions typographiques, trop souvent ignorées sur le web. 
+  tags:
+  authors:
+  - name: Damien Alexandre
+    description: 
+    picture: 
+    twitter: https://twitter.com/damienalexandre
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69912181
+    slides: http://jolicode.github.io/typography-conf/
+- year: 2013
+  type: LT
+  title: Et si j'écrivais un livre ?
+  url: 
+  description: Corinne vous dira comment elle a réussi à vaincre la peur de la page blanche. 
+  tags:
+  authors:
+  - name: Corinne Schillinger
+    description: 
+    picture: 
+    twitter: https://twitter.com/schillinger
+  ressource:
+    video: https://vimeo.com/album/2451288/video/69913156
+    slides: http://fr.slideshare.net/inseo/et-si-jcrivais-un-livre-21457479
+- year: 2013
+  type: conference
+  title: Une quête de sens
+  url: https://vimeo.com/album/2451288/video/70073032
+  description: Le sujet de cette conférence a été annoncé au dernier moment aux participants. 
+  tags:
+  authors:
+  - name: David Larlet
+    description: 
+    picture: 
+    twitter: https://twitter.com/
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70073032
+    slides: https://larlet.fr/static/david/talks/sudweb-quete-sens.pdf
+- year: 2013
+  type: conference
+  title: "Responsive News : l'actualité mobile à la BBC"
+  url: 
+  description: Comment un grand acteur du numérique a conçu un site qui s'adapte à tous les mobiles ? 
+  tags:
+  authors:
+  - name: Kaelig Deloumeau-Prigent
+    description: 
+    picture: 
+    twitter: http://twitter.com/kaelig
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70056895
+    slides: http://www.slideshare.net/kaelig/sudweb-2013
+- year: 2013
+  type: conference
+  title: La visualisation de données comme outil pour découvrir et partager des idées sur le web 
+  url: 
+  description: Nicolas Belmonte nous montrera à travers divers exemples que visualiser les données aide à mieux les comprendre. 
+  tags:
+  authors:
+  - name: Nicolas Belmonte
+    description: 
+    picture: 
+    twitter: https://twitter.com/philogb
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70464555
+    slides: http://www.slideshare.net/philogb/talk-2013-sudweb
+- year: 2013
+  type: LT
+  title: Le culte du cargo
+  url: 
+  description: Ne copiez-collez pas de code sans prendre en compte votre contexte. 
+  tags:
+  authors:
+  - name: Thomas Zilliox
+    description: 
+    picture: 
+    twitter: https://twitter.com/iamtzi
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70060075
+    slides: http://fr.slideshare.net/tzilliox/cargo-cult
+- year: 2013
+  type: LT
+  title: Un peu de TLS ne fait pas de mal
+  url: 
+  description: Et si nous passions en HTTPS ? Éric Daspet pense qu'il est temps de sécuriser nos échanges sur le web.
+  tags:
+  authors:
+  - name: Éric Daspet
+    description: 
+    picture: 
+    twitter: https://twitter.com/edasfr
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70056897
+    slides: http://fr.slideshare.net/edaspet/tls-sudweb
+- year: 2013
+  type: LT
+  title: Les super-pouvoirs du nouveau venu
+  url: 
+  description: Ce moment où le regard neuf et l'énergie du nouveau croisent l'expérience et la sagesse des anciens. 
+  tags:
+  authors:
+  - name: Mathieu Agopian
+    description: 
+    picture: 
+    twitter: https://twitter.com/magopian
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70067975
+    slides: http://mathieu.agopian.info/presentations/2013_05_sudweb/
+- year: 2013
+  type: LT
+  title: Travailler sur ses 2 pieds
+  url: 
+  description: 
+  tags:
+  authors:
+  - name: Pierre Martin
+    description: 
+    picture: 
+    twitter: https://twitter.com/pierremartin
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70076166
+    slides: http://real34.github.io/slides/travailler-sur-ses-deux-pieds/
+- year: 2013
+  type: conference
+  title: Monitoring : une culture plus que des outils
+  url: 
+  description: Comment 20minutes s'assure du bon fonctionnement de ses sites ? 
+  tags:
+  authors:
+  - name: Arnaud Limbourg
+    description: 
+    picture: 
+    twitter: https://twitter.com/arnaudlimbourg
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70464556
+    slides: https://speakerdeck.com/arnaudlimbourg/monitoring-une-culture-plus-que-des-outils
+- year: 2013
+  type: LT
+  title: Comment l'impression 3D va modifier le web et l'économie
+  url: 
+  description: "Reproduction à bas coût des objets du quotidien : enjeux économiques, perspectives pour nos métiers et droits d'auteur avec Maître Marc Lipskier."
+  tags:
+  authors:
+  - name: Marc Lipskier
+    description: 
+    picture: 
+    twitter: https://twitter.com/Bambooandbees
+  ressource:
+    video: https://vimeo.com/album/2451288/video/70464557
+    slides: 
