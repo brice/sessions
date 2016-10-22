@@ -245,9 +245,11 @@
   url: https://sudweb.fr/2012/talk/mais-un-lead-dev-c-est-quoi/
   description: Mais c’est quoi être Lead Developer ? Quelles qualités lui faut-il ? Quel est son travail au quotidien ? Quelle place a-t-il dans une équipe agile ? Quelle valeur apporte-t-il à un projet ou un produit ? Et quelle est à la place de ce métier dans la galaxie des métiers du Web ?
   tags:
+  - métier
+  - communication
   authors:
   - name: Brice Favre
-    description: 
+    description: Brice est lead developer
     picture: https://sudweb.fr/2012/wp-content/uploads/2012/03/6190868459_458ea5506d_b1.jpg
     twitter: https://twitter.com/briceatwork
   ressource:
@@ -259,11 +261,14 @@
   url: https://sudweb.fr/2012/talk/lopen-web-en-tant-que-pierre-angulaire-du-developpement-multi-objets/
   description: Si l’utilisation d’un unique langage nous permet de mutualiser les efforts lors du développement, ce serait vite oublier toutes les spécificités de chaque plateforme, qu’elles soient logicielles (moteur de rendu) ou matérielles (outil de pointage, taille d’écran).
   tags:
+  - HTML5
+  - JavaScript
+  - IoT
   authors:
   - name: Thomas Bassetto
-    description: 
-    picture: https://sudweb.fr/2012/wp-content/uploads/2012/03/thomas_bassetto1-600x2201.jpg
-    twitter: https://twitter.com/
+    description: Thomas est ingénieur et aime travailler avec les technologies web. Il a participé au développment d'un système d'exploitation en HTML5 ainsi qu'à de nombreuses applications mobiles et IoT. Il aime également donner et organiser des conférences.
+    picture: https://pbs.twimg.com/profile_images/679403268976562176/ExcNwqIO.jpg
+    twitter: https://twitter.com/tbassetto
   ressource:
     video: https://vimeo.com/57015969
     slides: http://fr.slideshare.net/tbassetto/lopen-web-en-tant-que-pierre-angulaire-du-developpement-multiobjets
@@ -271,264 +276,270 @@
   type: conference
   title: Comment vendre des prestations agiles ?
   url: https://sudweb.fr/2012/talk/comment-vendre-des-prestations-agiles/
-  description: 
+  description: L’agile, c’est bien. Mais avant d’en faire, il faut en vendre. De plus en plus de professionnels du développement logiciel sont convaincus du bien fondé des méthodes agiles, qui proposent des réponses pertinentes aux problèmes posés par les méthodes de gestion de projet « traditionnelles ». En revanche, l’agilité reste inconnue auprès de nombreux acheteurs de prestations de développement, tout simplement parce qu’ils ne sont pas du métier. Travailler avec les méthodes agiles nécessite un cadre commercial approprié qui a ses spécificités, et qui peut dérouter voire rebuter des acheteurs habitués au classique « appel d’offre / cahier des charges / devis / specs / deadline ». Quels arguments présenter, et surtout à quelles objections s’attendre lors d’une prospection commerciale en vue de vendre un cadre de travail agile ?
   tags:
+  - agile
+  - méthodologie
+  - vente
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Thibault Jouannic
+    description: Développer web indépendant, Thibault est un fervent adepte des méthodologies agiles qui favorisent l'émergence de logiciels de qualité à travers une collaboration franche et ouverte. Par conséquent, il ne travaille pas au forfait.
+    picture: https://i.vimeocdn.com/video/341137329_1280x960.jpg
+    twitter: https://twitter.com/thibaultj
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/49449218
+    slides: https://sudweb.fr/2012/wp-content/uploads/2012/09/03-Comment-vendre-des-prestations-agiles.pdf
 - year: 2012
   type: conference
   title: Ne perdez plus votre temps, testez vos idées en quelques heures !
-  url: https://sudweb.fr/2012/talk/ne-perdez-plus-votre-temps-testez-vos-idees-en-quelques-heures/
-  description: 
+  url:  https://sudweb.fr/2012/talk/ne-perdez-plus-votre-temps-testez-vos-idees-en-quelques-heures/
+  description: Combien de développeurs ont zéro visiteur chaque fois qu'ils créent un site ? Combien d'entrepreneurs se plantent car persuadés de connaître le marché qu'ils attaquent ? Combien d'entrepreneurs font refaire X fois l'application à leurs développeurs car à chaque fois les utilisateurs potentiels ne sont pas convaincus ? Beaucoup de temps perdu lors de la création d'un service web pourrait être évité en prenant un peu de recul et en posant quelques questions aux personnes directement intéressées par votre service. Nous verrons quelques applications pratiques de la Customer Validation. Nous verrons également comment développer le plus rapidement possible votre site, afin d'être le plus tôt possible sur le marché.
   tags:
+  - Agile
+  - Lean
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Camille Roux
+    description: Ingénieur de formation, Camille s'est rapidement intéressé à l'entreprenariat et a expérimenté le Lean Startup en fondant Human Coders. Adepte de l'improvisation, il forme et aide les développeurs et les entrepreneurs à mieux appréhender la gestion de leur business.
+    picture: https://www.camilleroux.com/wp-content/uploads/2016/01/cropped-camille-roux-bw-100-1.jpg
+    twitter: https://twitter.com/CamilleRoux
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/53160076
+    slides: http://www.slideshare.net/camilleroux/ne-perdez-plus-votre-temps-testez-vos-ides-en-quelques-heures
 - year: 2012
   type: conference
   title: From service provider to software vendor
   url: https://sudweb.fr/2012/talk/from-service-provider-to-software-vendor/
-  description: 
+  description: Il y a quelques années Rachel et son mari dirigeaient une entreprise de services, désormais la majorité des revenus provient des ventes de leur petit CMS, Perch. Le produit a été lancé, sans avoir reçu d'investissement externe et s'est révélé bénéficiaire moins de 24h après avoir été mis en vente. Malgré le fait de n'avoir aucune expérience dans le lancement d'un produit, cela s'est avéré être un succès. Rachel nous explique les choses qui ont vraiment fait la différence. Cette présentation s'adresse à tous ceux qui veulent arrêter de perdre du temps et de l'argent pour lancer leur produit, que ce soit un service en ligne, un logiciel téléchargeable, des ebooks, des cours en ligne ou que sais-je encore.
   tags:
+  - business
+  - produit
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Rachel Andrew
+    description:
+    picture: https://rachelandrew.co.uk/images/rachel-aea.jpg
+    twitter: http://twitter.com/rachelandrew
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/53665561
+    slides: https://speakerdeck.com/u/rachelandrew/p/from-service-provider-to-software-vendor
 - year: 2012
   type: conference
   title: Oh, IE6, how we loved you.
   url: https://sudweb.fr/2012/talk/oh-ie6-how-we-loved-you/
-  description: 
+  description: Tout le monde hait Internet Explorer 6, tout le monde a toujours haï IE6. Mais ce n'est pas vrai. Nous l'avons aimé. Passionnément. Alors enfilez votre dentier et votre gilet et promenons nous le passé pour nous souvenir de la gloire de ce qui a été le meilleur navigateur du monde. Quelles leçons pouvons nous tirer de notre jeune romance avec le Sexy Six pour le développement web d'aujourd'hui et de demain ?
   tags:
+  - web
+  - culture
+  - standards
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Bruce Lawson
+    description: Bruce défend depuis toujours le web ouvert et les standards, il est actuellement deputy CTO chez Opera Software.
+    picture: https://pbs.twimg.com/profile_images/1028556851/BY_Patrick.jpg
+    twitter: https://twitter.com/brucel
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/52171395
+    slides: https://speakerdeck.com/u/brucel/p/sudweb-toulouse-france-25-may-2012
 - year: 2012
   type: conference
   title: "MDN : Documenter le Web ouvert"
   url: https://sudweb.fr/2012/talk/contribuer-pour-mozilla-developer-network-comment-ca-marche/
-  description: 
+  description: "Tout développeur se pose un jour ou l’autre la question de savoir comme fonctionne tel ou tel technologie. Coup de chance, le Web regorge de ressources pour s’informer. Pas de bol, la qualité des unes est des autres et très disparate et il est parfois difficile de trier le bon grain de l’ivraie. Parmi toutes ces ressources l’une d’entre elle est en train de sortir du lot : le Mozilla Developer Network. Cette courte présentation sera l’occasion de vous montrer ce que ce site peu vous apporter et ce que vous pouvez lui apporter en retour."
   tags:
+  - standards
+  - documentation
+  - contribution
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Jérémie Patonnier
+    description: Jérémie est un expert des technologies web, dont il contribue activement à améliorer la documentation sur le Mozilla Developer Network.
+    picture: https://pbs.twimg.com/profile_images/1731588715/jeremie-patonnier-150_400x400.jpg
+    twitter: https://twitter.com/JeremiePat
   ressource:
     video: https://vimeo.com/
-    slides: 
+    slides:
 - year: 2012
   type: conference
   title: Mise en place d’une stratégie de Performance en entreprise
   url: https://sudweb.fr/2012/talk/mise-en-place-dune-strategie-de-performance-en-entreprise/
-  description: 
+  description: Avec la croissance du e-commerce et l’explosion du Web Mobile en France, la performance Web devient un enjeu croissant pour de nombreuses entreprises. Mais suivant l’organisation et la culture de l’entreprise, sa mise en place peut être délicate et tenir davantage de la conduite du changement que de l’identification et la résolution d’un problème technique. Cette conférence a pour but d’expliquer les problématiques et de lister les différentes étapes et outils qui amèneront votre entreprise à une organisation et une culture adaptées à la performance Web.
   tags:
+  - Webperf
+  - culture
+  - UX
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Boris Schapira
+    description: Boris est ingénieur de formation et consultant chez Clever Age. Il a fait au fil des années de la performance web une de ses spécialités.
+    picture: https://pbs.twimg.com/profile_images/751443494259060736/ZpaA5t-f_400x400.jpg
+    twitter: http://twitter.com/borisschapira
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/56931059
+    slides: https://speakerdeck.com/u/borisschapira/p/mettre-en-place-une-strategie-de-performance-web-en-entreprise
 - year: 2012
   type: LT
   title: Le naufrage du Vasa
   url: https://sudweb.fr/2012/talk/le-naufrage-du-vasa/
   description: Le Vasa est un navire de guerre suédois mis en service en 1628. Il a la particularité d’avoir coulé en moins de temps que la durée d’un Lightning Talk.
   tags:
+  - gestion de projet
+  - storytelling
   authors:
-  - name: 
-    description: 
-    picture: https://sudweb.fr/2012/wp-content/uploads/2012/03/mathieu-pillard2.jpg
-    twitter: https://twitter.com/
+    - name: Mathieu Pillard
+      description: Actuellement dévelopeur chez Mozilla, Mathieu est depuis longtemps un défenseur acharné des standards et du web ouvert. Co-fondateur d'OpenWeb, il a eu la chance de travailler pour Netscape, Téléfun (Skyblogs) ou Libération.
+      picture: https://c1.staticflickr.com/7/6086/6070599913_5b773b3337.jpg
+      twitter: https://twitter.com/dioxmat
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/52947098
+    slides: http://sudweb.fr/2012/wp-content/uploads/2012/09/09-Le-naufrage-du-Vasa.pdf
 - year: 2012
   type: conference
-  title: How to use and abuse the web to get ahead in the music business
+  title: Commment utiliser le web pour prendre le secteur de la musique de vitesse
   url: https://sudweb.fr/2012/talk/how-to-use-and-abuse-the-web-to-get-ahead-in-the-music-business/
-  description: 
+  description: Comment Uniform motion, un groupe toulousain d'indie folk illustré, qui combine la musique et les arts graphiques a utilisé le web pour augmenter sa visibilité et faire carrière dans la musique en utilisant tout un tas d'outils, des applications et des services disponibles sur le web mais également leurs propres développements (jeux, animations, financement participatif auto-hébergé).
   tags:
+  - services
+  - musique
+  - outils
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Andrew Richards
+    description: La journée Andrew est responsable d'Acapela Transport, dont la mission est de fournir des solutions de synthèse vocale aux différents types de transports, la soir il devient musicien, auteur et interprète pour son groupe Uniform Motion.
+    picture: https://sudweb.fr/2012/wp-content/uploads/2012/03/andrew-richards.jpg
+    twitter: https://twitter.com/richarandrew
   ressource:
-    video: https://vimeo.com/
-    slides: 
-- year: 2012
-  type: conference
-  title: How to use and abuse the web to get ahead in the music business
-  url: 
-  description: 
-  tags:
-  authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
-  ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/53000438
+    slides: http://sudweb.fr/2012/wp-content/uploads/2012/09/10-How-to-use-and-abuse-the-web-to-get-ahead-in-the-music-business.odp
 - year: 2012
   type: LT
   title: Le test du recruteur
   url: https://sudweb.fr/2012/talk/le-test-du-recruteur/
-  description: 
+  description: Comment les tests de recrutement peuvent réellement donner envie de travailler chez un employeur. Ou pas. Une analyse critique de l’image des méthodes de recrutement et de la difficulté de réellement évaluer un candidat. Diplôme, autodidacte, modernité et surtout intégration dans une équipe.
   tags:
+  - humour
+  - recrutement
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Xavier Mouton-Dubosc
+    description:
+    picture:
+    twitter: https://twitter.com/dascritch
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/album/1951235/video/52563526
+    slides:
 - year: 2012
   type: conference
   title: Le Web au doigt et à l’œil avec CasperJS
   url: https://sudweb.fr/2012/talk/le-web-au-doigt-et-a-loeil-avec-casperjs/
-  description: 
+  description: CasperJS est un outil permettant de scripter en Javascript un scénario de navigation sur un véritable navigateur Web, basé sur Webkit et ne nécessitant pas d’interface graphique. CasperJS peut servir à produire des tests fonctionnels poussés bénéficiant d’un environnement DOM et Javascript complet, mais aussi à analyser des documents Web, faire des tests de performance ou même extraire des données. L’intérêt majeur de CasperJS est qu’il permet relativement simplement de tester et valider fonctionnellement des sites et applications Web complexes, reposant sur l’exploitation intensives de Javascript, de comportements asynchrones et d’AJAX par exemple.
   tags:
+  - JavaScript
+  - outils
+  - tests
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Nicolas Perriault
+    description: Nicolas est développeur web chez Mozilla.
+    picture: https://nicolas.perriault.net/static/img/me.png
+    twitter: https://twitter.com/n1k0
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/49221062
+    slides: https://speakerdeck.com/u/n1k0/p/le-web-au-doigt-et-a-loeil-avec-casperjs
 - year: 2012
   type: conference
   title: L’icône anonyme
   url: https://sudweb.fr/2012/talk/licone-anonyme/
-  description: 
+  description:  Qui est la personne qui se cache derrière la profusion des icônes anonymes ? L’image anodine l’est beaucoup moins souvent que ce que l’on croit et elle a même parfois un impact politique indéniable.
   tags:
+  - design
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Anne Martre
+    description: null
+    picture: null
+    twitter: null
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/53153730
+    slides: http://sudweb.fr/2012/wp-content/uploads/2012/09/13-L’icône-anonyme.odp
 - year: 2012
   type: conference
   title: Open web, le combat continue
   url: https://sudweb.fr/2012/talk/open-web-le-combat-continue/
-  description: 
+  description: Le web ouvert a longtemps souffert de la première guerre des navigateurs qui a conduit à une période anarchique en matière de développement, suivie d’une longue période de léthargie monopolistique nommée Internet Explorer 6. Fort heureusement, une saine compétition des navigateurs a repris, réveillant le web ouvert via les standards, et ce dernier a pu repartir vers de salutaires progrès. Ironie du sort, cette compétition et d’autres effets amènent à une situation inédite où ces derniers sont mis en danger. Un coup de tonnerre est arrivé avec l’appel de Daniel Glazman aux constructeurs de navigateurs à ne pas implémenter le préfixe -webkit. Nous verrons ce que cela implique et ce que chacun peut faire à son niveau pour éviter de retourner dans une période anarchique de développement des navigateurs.
   tags:
+  - standards
+  - CSS
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Nicolas Hoffmann
+    description: Nicolas est développeur web, amoureux des standards, de l'accessibilité et de la qualité web.
+    picture: https://avatars3.githubusercontent.com/u/2578321?v=3&s=400
+    twitter: https://twitter.com/Nico3333fr
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/52846352
+    slides: http://www.slideshare.net/nico3333fr/open-web-le-combat-continue-sud-web-2012
 - year: 2012
   type: conference
   title: CSS3 with a safety net
   url: https://sudweb.fr/2012/talk/css3-with-a-safety-net/
-  description: 
+  description: Beaucoup de développeurs et designers web sont prudents dans l'utilisation de certaines fonctionnalités offertes par CSS3 car elles ne sont pas encore totalement supportées dans tous les navigateurs. Avec de l'organisation et de l'attention, nous pouvons utiliser une mélange d'amélioration progressive et de fallbacks en Javascript pour proposer une bonne expérience à tous. Sur Top10.com nous avons été en mesure d'utiliser CSS3 pour fournir une couche supplémentaire d'interaction et cette présentation vous montrera quelles techniques ont été utilisées y compris les transitions, les animations et les transformations.
   tags:
+  - CSS
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Peter Gasston
+    description: Peter est un véteran du développement web et l'auteur d'un livre sur CSS3, mais également pour Smashing Magazine ou A List Apart. Quand il ne donne pas des conférences, il vit à Londres et supporte le club d'Arsenal.
+    picture: https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/2c24ee4bcdf2cedb1ee1f7a642edd670f87637e3-t640.jpeg
+    twitter: https://twitter.com/stopsatgreen
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/52469944
+    slides: https://speakerdeck.com/u/stopsatgreen/p/css3-with-a-safety-net
 - year: 2012
   type: conference
   title: Intégrateur, lève-toi et conçois !
   url: https://sudweb.fr/2012/talk/integrateur-leve-toi-et-concois/
-  description: 
+  description: La révolution du support et la dynamique autour des nouvelles technologies créent un environnement instable dans lequel beaucoup de repères sont en mouvement ; des repères techniques, relationnels ou hiérarchiques, par exemple.  L’objectif de la conférence sera de montrer pourquoi le mode de fonctionnement des agences web “classique” ne peut pas marcher. Pour développer ce point de vue, il convient d’évoquer le contexte des connaissances techniques liées à la conception d’interfaces, mais aussi de voir les impacts méthodologiques que cela implique par rapport à des principes comme le responsive design. Il sera ainsi possible d’expliquer la raison pour laquelle le métier d’intégrateur doit évoluer vers celui de concepteur d’interfaces (UX designer) ; comment le développeur front doit trouver sa place dans un processus cohérent pour la réalisation de sites innovants de qualité.
   tags:
+  - métier
+  - design
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Bertrand Keller
+    description: Bertrand est un artisan du web et prend autant de plaisir à fournir des solutions adaptés à ses clients qu'à réparer des fauteuils ou des vélos.
+    picture: https://media.licdn.com/media/AAEAAQAAAAAAAAJQAAAAJDllZmJkNjY4LTZjODItNDlhZi1hNmQ0LTJjZTk2ZjBiYjYwYg.jpg
+    twitter: https://twitter.com/bertrandkeller
   ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/51941103
+    slides: https://bertrandkeller.info/2012/05/28/ma-presentation-integrateur-leve-toi-et-concois-a-sudweb
 - year: 2012
   type: conference
   title: L’altruisme pour votre bénéfice
   url: https://sudweb.fr/2012/talk/laltruisme-pour-votre-benefice/
-  description: 
+  description: Vous avez un boulot chiant ? Vos outils sont énervants ? Vous voudriez apprendre une nouvelle technologie ou un nouveau concept ? Indépendant, vous n’avez pas assez de clients ? En aidant des projets libres ou en s’intégrant à des communautés, il est possible d’améliorer votre quotidien. Nous verrons comment participer à ces communautés, quelques exemples de tâches à réaliser et ce que cela peut vous apporter.
   tags:
+  - open-source
+  - développement personnel
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
+  - name: Anthony Ricaud
+    description: Grand adepte de l'open-source et des standards, Anthony a travaillé chez Mozilla avant de rejoindre la Ruche qui dit oui.
+    picture: https://pbs.twimg.com/profile_images/61100847/1397208416_7f54f19f12_400x400.jpg
+    twitter: https://twitter.com/rik24d
   ressource:
-    video: https://vimeo.com/
-    slides: 
-- year: 2012
-  type: conference
-  title: Questions à l’ombre
-  url: https://sudweb.fr/2012/talk/questions-a-lombre/
-  description: 
-  tags:
-  authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/
-  ressource:
-    video: https://vimeo.com/
-    slides: 
+    video: https://vimeo.com/album/1951235/video/49830551
+    slides: https://sudweb.fr/2012/wp-content/uploads/2012/09/17-L%E2%80%99altruisme-pour-votre-b%C3%A9n%C3%A9fice.pdf
 - year: 2013
   type: conference
   title: "Le client : ce gentil méchant"
-  url: 
+  url:
   description: Après avoir été prestataire Olivier est devenu client. Analysons avec lui ces deux rôles pour en finir avec les dialogues de sourd.
   tags:
   authors:
   - name: Olivier de Villardi,
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/
   ressource:
     video: https://vimeo.com/album/2451288/video/69881604
     slides: https://medium.com/its-complicated/ee32eb2195a1
 - year: 2013
   type: conference
-  title: Conduite du changement, de l'artisanat à l'industrialisation 
-  url: 
-  description: Est-il si facile de changer des habitudes bien ancrées quand on est toute fraîchement débarquée dans une équipe ? 
+  title: Conduite du changement, de l'artisanat à l'industrialisation
+  url:
+  description: Est-il si facile de changer des habitudes bien ancrées quand on est toute fraîchement débarquée dans une équipe ?
   tags:
-  authors: 
+  authors:
   - name: Agnès Haasser
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/tut_tuuut
   ressource:
     video: https://vimeo.com/album/2451288/video/69882988
@@ -536,27 +547,27 @@
 - year: 2013
   type: conference
   title: Sass et Compass ont embelli mon quotidien
-  url: 
-  description: Comment simplifier la gestion des CSS dans un environnement de production complexe ? 
+  url:
+  description: Comment simplifier la gestion des CSS dans un environnement de production complexe ?
   tags:
   authors:
-  - name: 
-    description: 
-    picture: 
-    twitter: https://twitter.com/piouPiouM,
+  - name: Mehdi Kabab
+    description: Développeur fllstack chez CleverAge, expert Drupal et Webperf, auteur du livre 'Sass et Compass avancé' aux éditions Eyrolles.
+    picture:
+    twitter: https://twitter.com/piouPiouM
   ressource:
     video: https://vimeo.com/album/2451288/video/69882987
     slides: http://fr.slideshare.net/piouPiouM/sass-et-compass-ont-embelli-mon-quotidien-sud-web-2013
 - year: 2013
   type: conference
   title: "Getting Touchy: an introduction to Touch Events"
-  url: 
+  url:
   description: Comprendre la gestion des différentes interactions tactiles et les rendre compatibles quel que soit le périphérique d'accès.
   tags:
   authors:
   - name: Patrick Lauke
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/patrick_h_lauke
   ressource:
     video: https://vimeo.com/album/2451288/video/69891369
@@ -564,13 +575,13 @@
 - year: 2013
   type: LT
   title: Le développement c'est difficile
-  url: 
-  description: Le logiciel c'est compliqué. Des pièges subtils vous attendent même si l'algorithme semble simple à première vue. 
+  url:
+  description: Le logiciel c'est compliqué. Des pièges subtils vous attendent même si l'algorithme semble simple à première vue.
   tags:
   authors:
   - name: Rémi Parmentier
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/hteumeuleu
   ressource:
     video: https://vimeo.com/album/2451288/video/69888991
@@ -578,13 +589,13 @@
 - year: 2013
   type: LT
   title: Aubergine n'est pas une couleur
-  url: 
+  url:
   description: Un monde de nuances.
   tags:
   authors:
   - name: Alain Witkowski
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/wa__rn
   ressource:
     video: https://vimeo.com/album/2451288/video/69888992
@@ -592,13 +603,13 @@
 - year: 2013
   type: LT
   title: L'odyssée de l'espace insécable
-  url: 
-  description: Piqûre de rappel sur les conventions typographiques, trop souvent ignorées sur le web. 
+  url:
+  description: Piqûre de rappel sur les conventions typographiques, trop souvent ignorées sur le web.
   tags:
   authors:
   - name: Damien Alexandre
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/damienalexandre
   ressource:
     video: https://vimeo.com/album/2451288/video/69912181
@@ -606,13 +617,13 @@
 - year: 2013
   type: LT
   title: Et si j'écrivais un livre ?
-  url: 
-  description: Corinne vous dira comment elle a réussi à vaincre la peur de la page blanche. 
+  url:
+  description: Corinne vous dira comment elle a réussi à vaincre la peur de la page blanche.
   tags:
   authors:
   - name: Corinne Schillinger
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/schillinger
   ressource:
     video: https://vimeo.com/album/2451288/video/69913156
@@ -621,12 +632,15 @@
   type: conference
   title: Une quête de sens
   url: https://vimeo.com/album/2451288/video/70073032
-  description: Le sujet de cette conférence a été annoncé au dernier moment aux participants. 
+  description: Un débat improvisé pour recueillir ce qui motive aujourd'hui les personnes qui travaillent dans le web.
   tags:
+  - débat
+  - sens
+  - métier
   authors:
   - name: David Larlet
-    description: 
-    picture: 
+    description: David a une approche profondément éthique de son métier et de son existence, en tant qu'humain il s'interroge et expérimente sans cesse. Associé d'une scope, David privilégie le minimalisme et la pertinence.
+    picture:
     twitter: https://twitter.com/
   ressource:
     video: https://vimeo.com/album/2451288/video/70073032
@@ -634,27 +648,33 @@
 - year: 2013
   type: conference
   title: "Responsive News : l'actualité mobile à la BBC"
-  url: 
-  description: Comment un grand acteur du numérique a conçu un site qui s'adapte à tous les mobiles ? 
+  url:
+  description: Comment un grand acteur du numérique a conçu un site qui s'adapte à tous les mobiles ?
   tags:
+  - mobile
+  - Responsive
+  - front-end
   authors:
   - name: Kaelig Deloumeau-Prigent
-    description: 
-    picture: 
+    description: Après avoir participé à l'amélioration des outils de conception à la BBC, au Guardian ou au Financial Times, Kaelig tisse aujourd'hui des liens entre les designers et les développeurs chez Salesforce.
+    picture: https://pbs.twimg.com/profile_images/561705252185849856/KQpb24Zr.jpeg
     twitter: http://twitter.com/kaelig
   ressource:
     video: https://vimeo.com/album/2451288/video/70056895
     slides: http://www.slideshare.net/kaelig/sudweb-2013
 - year: 2013
   type: conference
-  title: La visualisation de données comme outil pour découvrir et partager des idées sur le web 
-  url: 
-  description: Nicolas Belmonte nous montrera à travers divers exemples que visualiser les données aide à mieux les comprendre. 
+  title: La visualisation de données comme outil pour découvrir et partager des idées sur le web
+  url:
+  description: Nicolas Belmonte nous montrera à travers divers exemples que visualiser les données aide à mieux les comprendre.
   tags:
+  - dataviz
+  - JavaScript
+  - data
   authors:
   - name: Nicolas Belmonte
-    description: 
-    picture: 
+    description: Après avoir fait transformé des chiffres en visualisations chez Twitter, Nicolas continue d'essayer de rendre intelligible des phénomènes complexes à travers des réprésentations de données chez Uber.
+    picture: https://avatars1.githubusercontent.com/u/71751?v=3&s=400
     twitter: https://twitter.com/philogb
   ressource:
     video: https://vimeo.com/album/2451288/video/70464555
@@ -662,13 +682,14 @@
 - year: 2013
   type: LT
   title: Le culte du cargo
-  url: 
-  description: Ne copiez-collez pas de code sans prendre en compte votre contexte. 
+  url:
+  description: Ne copiez-collez pas de code sans prendre en compte votre contexte.
   tags:
+  - culture
   authors:
   - name: Thomas Zilliox
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/iamtzi
   ressource:
     video: https://vimeo.com/album/2451288/video/70060075
@@ -676,13 +697,13 @@
 - year: 2013
   type: LT
   title: Un peu de TLS ne fait pas de mal
-  url: 
+  url:
   description: Et si nous passions en HTTPS ? Éric Daspet pense qu'il est temps de sécuriser nos échanges sur le web.
   tags:
   authors:
   - name: Éric Daspet
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/edasfr
   ressource:
     video: https://vimeo.com/album/2451288/video/70056897
@@ -690,41 +711,41 @@
 - year: 2013
   type: LT
   title: Les super-pouvoirs du nouveau venu
-  url: 
-  description: Ce moment où le regard neuf et l'énergie du nouveau croisent l'expérience et la sagesse des anciens. 
+  url:
+  description: Ce moment où le regard neuf et l'énergie du nouveau croisent l'expérience et la sagesse des anciens.
   tags:
   authors:
   - name: Mathieu Agopian
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/magopian
   ressource:
     video: https://vimeo.com/album/2451288/video/70067975
     slides: http://mathieu.agopian.info/presentations/2013_05_sudweb/
 - year: 2013
   type: LT
-  title: Travailler sur ses 2 pieds
-  url: 
-  description: 
+  title: Travailler sur ses deux pieds
+  url:
+  description:
   tags:
   authors:
   - name: Pierre Martin
-    description: 
-    picture: 
+    description: Pierre Martin est développeur et co-gérant d'une agence web. Il aime travailler débout en écoutant du métal au casque.
+    picture:
     twitter: https://twitter.com/pierremartin
   ressource:
     video: https://vimeo.com/album/2451288/video/70076166
     slides: http://real34.github.io/slides/travailler-sur-ses-deux-pieds/
 - year: 2013
   type: conference
-  title: Monitoring : une culture plus que des outils
-  url: 
-  description: Comment 20minutes s'assure du bon fonctionnement de ses sites ? 
+  title: "Monitoring : une culture plus que des outils"
+  url:
+  description: Comment 20minutes s'assure du bon fonctionnement de ses sites ?
   tags:
   authors:
   - name: Arnaud Limbourg
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/arnaudlimbourg
   ressource:
     video: https://vimeo.com/album/2451288/video/70464556
@@ -732,14 +753,14 @@
 - year: 2013
   type: LT
   title: Comment l'impression 3D va modifier le web et l'économie
-  url: 
+  url:
   description: "Reproduction à bas coût des objets du quotidien : enjeux économiques, perspectives pour nos métiers et droits d'auteur avec Maître Marc Lipskier."
   tags:
   authors:
   - name: Marc Lipskier
-    description: 
-    picture: 
+    description:
+    picture:
     twitter: https://twitter.com/Bambooandbees
   ressource:
     video: https://vimeo.com/album/2451288/video/70464557
-    slides: 
+    slides:
